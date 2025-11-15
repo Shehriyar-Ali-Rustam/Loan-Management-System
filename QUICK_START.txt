@@ -1,0 +1,99 @@
+╔═══════════════════════════════════════════════════════════════╗
+║   💰 TAJIRAN BREP TANZEEM CALCULATOR - QUICK START GUIDE     ║
+╚═══════════════════════════════════════════════════════════════╝
+
+✅ YES! This app runs COMPLETELY OFFLINE forever!
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+📋 WHAT YOU NEED:
+   - Python 3.8 or higher installed on your computer
+   - That's it! No internet needed after setup.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🚀 EASIEST WAY TO RUN:
+
+   Windows Users:
+   ──────────────
+   Just double-click: run.bat
+
+   Linux/Mac Users:
+   ────────────────
+   Open terminal here and type: ./run.sh
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+📦 WHAT TO SEND TO YOUR FRIEND:
+
+   Send the ENTIRE folder containing:
+   ✓ lms_app.py
+   ✓ requirements.txt
+   ✓ run.bat (for Windows)
+   ✓ run.sh (for Linux/Mac)
+   ✓ OFFLINE_SETUP_GUIDE.md (detailed instructions)
+   ✓ This file (QUICK_START.txt)
+
+   ⚠️  DO NOT send the 'venv' folder - it will be created automatically!
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🔧 FIRST TIME SETUP (Automatic when you run the script):
+
+   The run script will automatically:
+   1. Create a virtual environment
+   2. Install Streamlit (only ~50MB download)
+   3. Start the application
+
+   This happens only ONCE. After that, no internet needed!
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🌐 ACCESSING THE APP:
+
+   After running, open your browser and go to:
+   http://localhost:8501
+
+   The app will also try to open automatically!
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🛑 TO STOP THE APP:
+
+   Press Ctrl+C in the terminal/command window
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+💡 FEATURES:
+
+   📊 Profit Sharing Calculator
+      - Calculate profit distribution based on contributions
+
+   💸 Loan Return Calculator
+      - Calculate total repayment with interest
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+📱 MOBILE ACCESS:
+
+   Want to use on your phone? You have 3 options:
+
+   1. Access from mobile browser (same WiFi as computer)
+      → Read: MOBILE_SETUP_GUIDE.md
+
+   2. Run directly on Android using Termux
+      → Read: MOBILE_SETUP_GUIDE.md
+
+   3. Add to home screen as PWA (app-like experience)
+      → Read: MOBILE_SETUP_GUIDE.md
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+❓ NEED MORE HELP?
+
+   📖 OFFLINE_SETUP_GUIDE.md - Detailed computer setup
+   📱 MOBILE_SETUP_GUIDE.md - Mobile & phone setup
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+✨ That's it! Enjoy your offline calculator on any device!
